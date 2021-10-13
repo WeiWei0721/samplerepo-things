@@ -3,3 +3,6 @@ berries
 cherries
 Managoes
 Oranges
+Kiwi
+Papaya
+
